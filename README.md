@@ -5,9 +5,9 @@
 
 ## 🌐 Live Demo
 
-🔗 **[Try Laksh AI]((https://laksh-ai.vercel.app/))**
+🔗 **[Try Laksh AI]([https://laksh-ai.vercel.app/])**
 
-*Experience the AI-powered movie recommendations in action!*
+
 
 ## ✨ Features
 
