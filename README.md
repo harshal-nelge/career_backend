@@ -3,6 +3,12 @@
 
 > An AI-powered career recommendation system that provides personalized career suggestions based on your educational background, interests, skills, and certifications.
 
+## 🌐 Live Demo
+
+🔗 **[Try Laksh AI]((https://laksh-ai.vercel.app/))**
+
+*Experience the AI-powered movie recommendations in action!*
+
 ## ✨ Features
 
 - 🤖 **AI-Powered Recommendations** - Uses Google's Generative AI for intelligent career matching
