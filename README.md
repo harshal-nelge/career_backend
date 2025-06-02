@@ -5,7 +5,7 @@
 
 ## 🌐 Live Demo
 
-🔗 **[Try Laksh AI]([https://laksh-ai.vercel.app/])**
+[![Live Demo](https://laksh-ai.vercel.app/)](https://laksh-ai.vercel.app/)
 
 
 
